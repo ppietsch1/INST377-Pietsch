@@ -11,3 +11,5 @@ saveMovie.php is the action script that adds data from formPPa3.php to the movie
 
 userModel.php contains the functions to support the dropdown window in the 'add movie' form. It also has a function to count the number of movies
 a user has entered though I haven't chosen to display that on any webpages.
+
+displaydataPP.php has been edited from the past assignment to accommodate the new table in the database.
